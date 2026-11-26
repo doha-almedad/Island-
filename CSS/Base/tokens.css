@@ -1,0 +1,7 @@
+:root{
+  --sea1:#5aa6b8;--sea2:#2c6f8c;--sea3:#1b4b66;
+  --parch:#f6e9c9;--parch2:#e8d3a0;
+  --wood:#7a4b28;--wood2:#442a16;--ink:#3a2412;--gold:#ffd36a;
+  --glow:0 0 0 2px #ffe9a8 inset,0 0 14px 3px rgba(255,211,106,.75),0 0 32px 8px rgba(255,190,70,.35);
+  --glow-soft:0 0 10px 2px rgba(255,211,106,.65);
+}
