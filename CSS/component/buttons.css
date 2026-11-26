@@ -1,0 +1,5 @@
+.glow-btn{font:700 16px Tajawal,sans-serif;color:#fff3cf;background:linear-gradient(#9a6535,#5d3818);border:3px solid #e9b65a;border-radius:14px;padding:9px 18px;cursor:pointer;box-shadow:var(--glow);text-shadow:0 1px 0 var(--ink);animation:pulse 2.8s ease-in-out infinite;transition:transform .15s,filter .15s}
+.glow-btn:hover{transform:translateY(-2px);filter:brightness(1.18)}
+.glow-btn:focus-visible,.island:focus-visible{outline:3px solid #fff;outline-offset:3px}
+.glow-btn.round{width:54px;height:54px;padding:0;border-radius:50%;font-size:24px;display:grid;place-items:center}
+@keyframes pulse{50%{box-shadow:0 0 0 2px #fff2c2 inset,0 0 22px 6px rgba(255,211,106,.95),0 0 44px 12px rgba(255,190,70,.5)}}
